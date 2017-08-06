@@ -1,0 +1,11 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+# main-navigation {
+    width: 1000px;
+    margin: 0 auto;
+    height: 40px;
+    background-color: red;
+}
